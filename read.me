@@ -1,0 +1,37 @@
+For start use main method in Main.java
+
+
+
+The task involves creating a codebase to manage an employee database stored in XML files.
+Each XML file contains data for an individual employee.
+Employees are categorized into two directories: External (external employees) and Internal (internal employees), indicating their type.
+
+Each employee has the following attributes: Identifier, First Name, Last Name, Phone Number, Email,
+PESEL (Polish National Identification Number).
+
+
+Data type definition:
+class Person {
+    String personId;
+    String firstName;
+    String lastName;
+    String mobile;
+    String email;
+    String pesel;
+}
+
+The operations to be supported include:
+1. Find an employee by any attribute: identifier, type, last name, first name, phone number,
+PESEL (or any combination of these attributes).
+2. Add a new employee.
+3. Remove an employee.
+4. Modify employee data.
+
+Example functions to be implemented:
+Person find(Type type, String firstName, String lastName, String mobile);
+void create(Person person);
+boolean remove(String personId);
+void modify(Person person);
+
+
+

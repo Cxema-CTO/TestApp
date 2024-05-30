@@ -1,0 +1,30 @@
+2024-05-30 23:21:55 INFO  StarterController:38 - Start application
+2024-05-30 23:21:55 INFO  FileManagerImpl:88 - Check folder for db and setting
+2024-05-30 23:21:55 INFO  FileManagerImpl:115 - Nested folder for db External exist.
+2024-05-30 23:21:55 INFO  FileManagerImpl:118 - Persons data files in the folder: 50
+2024-05-30 23:21:55 INFO  FileManagerImpl:115 - Nested folder for db Internal exist.
+2024-05-30 23:21:55 INFO  FileManagerImpl:118 - Persons data files in the folder: 50
+2024-05-30 23:21:55 INFO  FileManagerImpl:99 - Max PersonId=100
+2024-05-30 23:23:54 INFO  StarterController:38 - Start application
+2024-05-30 23:23:54 INFO  FileManagerImpl:88 - Check folder for db and setting
+2024-05-30 23:23:54 INFO  FileManagerImpl:115 - Nested folder for db External exist.
+2024-05-30 23:23:54 INFO  FileManagerImpl:118 - Persons data files in the folder: 50
+2024-05-30 23:23:54 INFO  FileManagerImpl:115 - Nested folder for db Internal exist.
+2024-05-30 23:23:54 INFO  FileManagerImpl:118 - Persons data files in the folder: 50
+2024-05-30 23:23:54 INFO  FileManagerImpl:99 - Max PersonId=100
+2024-05-30 23:24:01 INFO  MainController:55 - Run DbStage
+2024-05-30 23:27:15 INFO  StarterController:38 - Start application
+2024-05-30 23:27:15 INFO  FileManagerImpl:88 - Check folder for db and setting
+2024-05-30 23:27:15 INFO  FileManagerImpl:115 - Nested folder for db External exist.
+2024-05-30 23:27:15 INFO  FileManagerImpl:118 - Persons data files in the folder: 50
+2024-05-30 23:27:15 INFO  FileManagerImpl:115 - Nested folder for db Internal exist.
+2024-05-30 23:27:15 INFO  FileManagerImpl:118 - Persons data files in the folder: 50
+2024-05-30 23:27:15 INFO  FileManagerImpl:99 - Max PersonId=100
+2024-05-30 23:27:38 INFO  StarterController:38 - Start application
+2024-05-30 23:27:38 INFO  FileManagerImpl:88 - Check folder for db and setting
+2024-05-30 23:27:38 INFO  FileManagerImpl:115 - Nested folder for db External exist.
+2024-05-30 23:27:38 INFO  FileManagerImpl:118 - Persons data files in the folder: 50
+2024-05-30 23:27:38 INFO  FileManagerImpl:115 - Nested folder for db Internal exist.
+2024-05-30 23:27:38 INFO  FileManagerImpl:118 - Persons data files in the folder: 50
+2024-05-30 23:27:38 INFO  FileManagerImpl:99 - Max PersonId=100
+2024-05-30 23:28:00 INFO  MainController:55 - Run DbStage
